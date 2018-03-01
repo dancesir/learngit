@@ -3,3 +3,4 @@ git is free software distributed under GPL
 add something
 add the second line
 Creating a new branch is quick and simple
+merge --no-f
